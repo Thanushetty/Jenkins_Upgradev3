@@ -20,7 +20,8 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Good Morning from Thanu to all!!!");
+	  System.out.println("Hello from Main Method & Good Morning from Thanushetty to all!!!");
+	  
   }
 	
 }
