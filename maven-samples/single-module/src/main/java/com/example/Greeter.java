@@ -1,5 +1,4 @@
 package com.example;
-
 /**
  * This is a class.
  */
@@ -21,7 +20,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Good Morning from Abdul to all!!!");
+	  System.out.println("Hello from Main Method & Good Morning from Thanu to all!!!");
   }
 	
 }
